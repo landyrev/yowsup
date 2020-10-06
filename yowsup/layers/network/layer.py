@@ -60,7 +60,7 @@ class YowNetworkLayer(YowLayer, ConnectionCallbacks):
             logger.debug("Disconnected")
             self.emitEvent(
                 YowLayerEvent(
-                    self.__class__.EVENT_STATE_DISCONNECTED, reason=self._disconnect_reason or "", detached=True
+                    self.__class__.EVENT_STATE_DISCONNECTED, reason=self._disconnect_reason or ""
                 )
             )
 
