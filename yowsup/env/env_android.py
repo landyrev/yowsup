@@ -24,7 +24,7 @@ class AndroidYowsupEnv(YowsupEnv):
     _OS_NAME = "Android"
     _OS_VERSION = "7.0.0"
     _DEVICE_NAME = "star2lte"
-    _MANUFACTURER = "a5xelte"
+    _MANUFACTURER = "samsung"
     _BUILD_VERSION = "a5xelte-user 7.0.0 R16NW A510FXXS8CSF4 release-keys"
     _AXOLOTL = True
 
