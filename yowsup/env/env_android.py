@@ -17,10 +17,10 @@ class AndroidYowsupEnv(YowsupEnv):
         "YHNtYoIvt5R3X6YZylbPftF/8ayWTALBgcqhkjOOAQDBQADLwAwLAIUAKYCp0d6z4QQdyN74JDfQ2WCyi8CFDUM4CaNB+ceVXd" \
         "KtOrNTQcc0e+t"
 
-    _MD5_CLASSES = "PzuZ7EJNcuXEealGEJT6+g=="
+    _MD5_CLASSES = "mSw3bi42fKWW4zVnjv8Kag=="
     _KEY = "eQV5aq/Cg63Gsq1sshN9T3gh+UUp0wIw0xgHYT1bnCjEqOJQKCRrWxdAe2yvsDeCJL+Y4G3PRD2HUF7oUgiGo8vGlNJOaux26k+A2F3hj8A="
 
-    _VERSION = "2.20.134"
+    _VERSION = "2.20.201.20"
     _OS_NAME = "Android"
     _OS_VERSION = "8.0.0"
     _DEVICE_NAME = "star2lte"
